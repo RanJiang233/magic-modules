@@ -199,6 +199,7 @@ properties:
                 - 'NVIDIA_TESLA_T4_VWS'
                 - 'NVIDIA_TESLA_P100_VWS'
                 - 'NVIDIA_TESLA_P4_VWS'
+                - 'NVIDIA_RTX6000'
             - name: 'coreCount'
               type: String
               description: |
